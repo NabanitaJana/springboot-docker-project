@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.docker.test.DockerTest.DockerTestApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-07T16:59:26.917Z" hostname="DESKTOP-N623IP4" time="0.84">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.docker.test.DockerTest.DockerTestApplicationTests" time="0.84"/>
+  <system-out><![CDATA[22:29:23.921 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.docker.test.DockerTest.DockerTestApplicationTests]: DockerTestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:29:24.125 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.docker.test.DockerTest.DockerTestApplication for test class com.docker.test.DockerTest.DockerTestApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.5)
+
+2025-05-07T22:29:24.767+05:30  INFO 20084 --- [DockerTest] [    Test worker] c.d.t.D.DockerTestApplicationTests       : Starting DockerTestApplicationTests using Java 17.0.12 with PID 20084 (started by LENOVO in C:\Users\LENOVO\Downloads\DockerTest\DockerTest)
+2025-05-07T22:29:24.768+05:30  INFO 20084 --- [DockerTest] [    Test worker] c.d.t.D.DockerTestApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2025-05-07T22:29:26.891+05:30  INFO 20084 --- [DockerTest] [    Test worker] c.d.t.D.DockerTestApplicationTests       : Started DockerTestApplicationTests in 2.533 seconds (process running for 4.032)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
