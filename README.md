@@ -8,3 +8,4 @@ The application is built using **Spring Boot**, a popular Java framework, and ca
 
 - [Spring Boot](https://spring.io/projects/spring-boot) - Java framework used to build the application.
 - [Docker](https://www.docker.com/) - Container platform used to package and deploy the application.
+- Kubernetes YAML - Added a YAML configuration file to enable deployment on Kubernetes.
